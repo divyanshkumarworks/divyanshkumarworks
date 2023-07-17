@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **web development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/divyanshkumarworks](https://github.com/divyanshkumarworks)
+- 👨‍💻 All of my projects are available at [https://github.com/divyanshkumarworks?tab=repositories](https://github.com/divyanshkumarworks?tab=repositories)
 
 - 💬 Ask me about **django, python, javascript**
 
