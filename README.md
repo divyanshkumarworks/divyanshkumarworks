@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshkumarworks&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshkumarworks" /> </p>
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/divyanshkumarworks?tab=repositories](https://github.com/divyanshkumarworks?tab=repositories)
 
